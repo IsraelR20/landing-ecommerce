@@ -72,6 +72,30 @@ nav {
 
 .search-bar button:hover {
     background-color: #cc7a00;
+}
+
+main {
+    padding: 2em;
+}
+
+.productos {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.producto {
+    border: 1px solid #ddd;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+    width: 200px;
+}
+
+.producto img {
+    max-width: 100%;
+    height: auto;
+}
 
 footer {
     background-color: #333;
