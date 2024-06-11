@@ -72,4 +72,13 @@ nav {
 
 .search-bar button:hover {
     background-color: #cc7a00;
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
